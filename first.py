@@ -1,0 +1,1 @@
+print "Hello everyone. Welcome to the class"
