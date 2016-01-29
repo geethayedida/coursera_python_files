@@ -25,4 +25,4 @@ for p in range(int(position)):
             print url
     continue
 print "Last URL: " + url
-# Retrieve all of the anchor tags
+
